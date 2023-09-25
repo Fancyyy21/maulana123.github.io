@@ -1,8 +1,4 @@
-
-function addGeoJSONToMapAndTable(geoJSONUrl) {
-    $.getJSON(geoJSONUrl, function (data) {
-
-        document.addEventListener("DOMContentLoaded", () => {
+            document.addEventListener("DOMContentLoaded", () => {
             const pointTable = document.getElementById("pointTable").getElementsByTagName('tbody')[0];
         
             fetch("./json/data_point.json") // Ganti "data.json" dengan nama file JSON Anda
@@ -27,7 +23,7 @@ function addGeoJSONToMapAndTable(geoJSONUrl) {
         document.addEventListener("DOMContentLoaded", () => {
             const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
         
-            fetch("./json/data_polygon.json") // Ganti "data.json" dengan nama file JSON Anda
+            fetch("./data_polygon.json") // Ganti "data.json" dengan nama file JSON Anda
                 .then(response => response.json())
                 .then(data => {
                     data.features.forEach(feature => {
@@ -49,7 +45,7 @@ function addGeoJSONToMapAndTable(geoJSONUrl) {
         document.addEventListener("DOMContentLoaded", () => {
             const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
         
-            fetch("./json/data_polyline.json") // Ganti "data.json" dengan nama file JSON Anda
+            fetch("./data_polyline.json") // Ganti "data.json" dengan nama file JSON Anda
                 .then(response => response.json())
                 .then(data => {
                     data.features.forEach(feature => {
@@ -67,19 +63,3 @@ function addGeoJSONToMapAndTable(geoJSONUrl) {
                 })
                 .catch(error => console.error("Terjadi kesalahan:", error));
         });
-
-    }
-
-    )
-}
-
-// Call the function for LineString GeoJSON using the raw URL
-addGeoJSONToMapAndTable('https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/json/data_polyline.json', document.querySelector('table'));
-
-// Call the function for Polygon GeoJSON
-addGeoJSONToMapAndTable('https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/json/data_polygon.json', document.querySelector('table'));
-
-// Call the function for Point GeoJSON
-addGeoJSONToMapAndTable('https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/json/data_point.json', document.querySelector('table'));
-
-
