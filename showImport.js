@@ -1,6 +1,6 @@
 
 function addGeoJSONToMapAndTable(geoJSONUrl) {
-    $.getJSON(geoJSONUrl, function () {
+    $.getJSON(geoJSONUrl, function (data) {
 
         document.addEventListener("DOMContentLoaded", () => {
             const pointTable = document.getElementById("pointTable").getElementsByTagName('tbody')[0];
