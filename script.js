@@ -136,6 +136,6 @@ function addGeoJSONToMapAndTable(geoJSONUrl, map, table) {
 }
 
 // Call the function for each GeoJSON URL
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/data_polyline.json", map, document.querySelector('table'));
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/data_polygon.json", map, document.querySelector('table'));
-addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maulana123.github.io/main/data_point.json", map, document.querySelector('table'));
+addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maultugas/main/data_polyline.json", map, document.querySelector('table'));
+addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maultugas/main/data_polygon.json", map, document.querySelector('table'));
+addGeoJSONToMapAndTable("https://raw.githubusercontent.com/Fancyyy21/maultugas/main/data_point.json", map, document.querySelector('table'));
