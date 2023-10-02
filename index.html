@@ -1,54 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Data Tabel</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPEN LAYER</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.css" />
+
+    <!-- Additional CSS -->
+    <link rel="stylesheet" href="styles.css" />
 </head>
-<link rel="stylesheet" href="style.css">
 <body>
+    <div>
+        <h1 class="judul">Open Layer</h1>
+        <div id="map" style="height: 500px;"></div>
 
-    <div class="point-table">
-    <h1>Data Poin</h1>
-    <table id="pointTable" border="1">
-        <thead>
+        <div class="point-table">
+            <h1>Data-Data (Polyline, Point, Polygon) </h1>
+            <table id="pointTable" border="1">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Name</th>
+                        <th>Coordinates</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody id="geojson-table"></tbody>
+            </table>
+        </div>
+        
+
+        <!-- Add a table to display GeoJSON data -->
+        <!-- <table border="1">
             <tr>
-                <th>Nama</th>
-                <th>Koordinat</th>
+                <th>No</th>
+                <th>Name</th>
+                <th>Desa</th>
+                <th>Coordinates</th>
                 <th>Type</th>
             </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-</div>
+            <tbody id="geojson-table"> -->
 
-<div class="polygon-table">
-    <h1>Data Polygon</h1>
-    <table id="polygonTable" border="1">
-        <thead>
-            <tr>
-                <th>Nama</th>
-                <th>Koordinat</th>
-                <th>Type</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-</div>
+                <!-- Rows for GeoJSON data will be added here -->
+            <!-- </tbody>
+        </table> -->
+        <!-- Include OpenLayers via CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.js"></script>
 
-<div class="polyline-table">
-    <h1>Data Polyline</h1>
-    <table id="polylineTable" border="1">
-        <thead>
-            <tr>
-                <th>Nama</th>
-                <th>Koordinat</th>
-                <th>Type</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-</div>
+        <!-- Your JavaScript code here -->
+        <script type="module" src="script.js"></script>
 
-
-    <script type="module" src="./showImport.js"></script>
+    </div>
 </body>
 </html>
