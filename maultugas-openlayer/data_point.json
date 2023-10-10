@@ -1,0 +1,859 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alun majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22773263904094,
+          -6.835143147730861
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dinas pendidikan majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2272783359835,
+          -6.834059217799464
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kantor dprd majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22788570351122,
+          -6.834079063662983
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kantor bupati majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22767770321116,
+          -6.836604957326358
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warungmakan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22829911087337,
+          -6.836172432491807
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "masjid agung al imam majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22675114744084,
+          -6.835477330363062
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warung makan majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22687235933984,
+          -6.8350276648778845
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kedai artha"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22678451364266,
+          -6.834802269971277
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "toserba yogya majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2264472023598,
+          -6.834358443346218
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nasi uduk betawi"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22663033426869,
+          -6.833666629699934
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kantor pos"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22861199945635,
+          -6.835447648408788
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kejaksaan negeri majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2288892591111,
+          -6.835475770614082
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pegadaian"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22856001697141,
+          -6.834949474272989
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pegadaian majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22882492858514,
+          -6.835089395812673
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lapas kela iib majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22952104375861,
+          -6.835289883531871
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pasar mambo"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23003652852606,
+          -6.835255873269205
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "toko lampu"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23010326524138,
+          -6.834841666178306
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bhuya wood craft"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23056104105245,
+          -6.8340691885518225
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warung pasya"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23105443697295,
+          -6.834014201995942
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sinar media"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23015229933856,
+          -6.833999623973696
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mie ayam hijau adiba"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23149016345991,
+          -6.833972839996491
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "home azhar kontrakan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23128035587541,
+          -6.833708457117098
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ika motor seection accu"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23097280594345,
+          -6.8336555428070795
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "apotek ambunsari"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23051114821999,
+          -6.833575175990205
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lapangan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23075090527374,
+          -6.833615506021118
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "warung kopi ibu idah"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22992516359926,
+          -6.833936888055021
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warung al mira"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22943406369325,
+          -6.833607857077254
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warung kuring cell"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2294317395669,
+          -6.83393324153846
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "perhutani majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22886523936876,
+          -6.833968014775252
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pondok yunisa"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2285707065439,
+          -6.833588178086913
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kopi sandaran hati majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22641163863557,
+          -6.836024474738153
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mitra bukalapak waserda hikmah"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22602367003736,
+          -6.835983724360574
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "empal gentong mang muad asli khas cirebon"
+      },
+      "geometry": {
+        "coordinates": [
+          108.2259698363228,
+          -6.835786220816814
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wisma hikmah"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22548135419646,
+          -6.835954853152074
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "indomaret"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22512608866202,
+          -6.835798906546998
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warung dadan uyup"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22443811953354,
+          -6.835893313239026
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pondok pesantren darul ulum"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22382478672506,
+          -6.835958792011425
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "POP meals"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22321680732267,
+          -6.835713642285668
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diga Cell"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22319100564505,
+          -6.8357957243229635
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pin stuff"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22481491957501,
+          -6.83603570970385
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bakso bandara"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22300688914771,
+          -6.8354693559628
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah KGW"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22290132182246,
+          -6.835461891633784
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kupat tahu dan soto ayam karim pahlawan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22301815916501,
+          -6.835268887355539
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kedai sanes kape"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22301459069826,
+          -6.834957159027425
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "waroeng netima"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22302802989452,
+          -6.834829256846405
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warteg majalenga"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22303351735655,
+          -6.8345123605203355
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BNI KCP majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22235967680353,
+          -6.834473109887028
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cafe majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22241841709604,
+          -6.834088795082991
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ketoprak riska rahayu alengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22206191873863,
+          -6.83409806578814
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah makan majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22171956850599,
+          -6.834390329154317
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tahu sumedang tubagus sari majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22565638307634,
+          -6.833232190849145
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tahu sumedang"
+      },
+      "geometry": {
+        "coordinates": [
+          108.225256095931,
+          -6.833028720916175
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "medika permata bunda"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22501093714567,
+          -6.8332636815529355
+        ],
+        "type": "Point"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wihara pemancar keselamatan"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22453737050148,
+          -6.834555037081188
+        ],
+        "type": "Point"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saung iga satari 13"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22352861979596,
+          -6.83299172808033
+        ],
+        "type": "Point"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicco Resto majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22980767940516,
+          -6.835961327699366
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ikan laut bakar"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23011587042208,
+          -6.835916159137952
+        ],
+        "type": "Point"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GPI majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23016001440635,
+          -6.8360330115025505
+        ],
+        "type": "Point"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mie bakso selera"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23079871738736,
+          -6.8360098818138795
+        ],
+        "type": "Point"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OAKS cafe n resto"
+      },
+      "geometry": {
+        "coordinates": [
+          108.23124818603344,
+          -6.8359618978767145
+        ],
+        "type": "Point"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "SMA Negeri 2 Majalengka"
+      },
+      "geometry": {
+        "coordinates": [
+          108.22901891257806,
+          -6.836276879380108
+        ],
+        "type": "Point"
+      },
+      "id": 60
+    }
+  ]
+}
