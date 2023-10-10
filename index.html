@@ -1,69 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OPEN LAYER</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.css" />
-
-    <!-- Additional CSS -->
-    <link rel="stylesheet" href="styles.css" />
-</head>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  </head>
 <body>
 
-    
 
-    <div>
-        <h1 class="judul">Open Layer Kabupaten Majalengka</h1>
-        <h2>Nama : Maulana Imanulhaq Nurdiana</h2>
-        <h2>NPM : 1214078</h2>
-        <h2>Kelas : D4TI 3C</h2>
+<table class="table">
+  <tbody id="lokasi">
+    <tr>
+      <th>Type</th>
+      <th>Nama</th>
+      <th>Kordinat</th>
+    </tr>
+  </tbody>
+</table>
 
-        <button id="ambilData">Data API</button>
-        <div id="hasil"></div>
-        <br>
-        <br>
+<script type="module" src="./get.js"></script>
 
-        <div id="map" style="height: 500px;"></div>
-        
-
-        <div class="point-table">
-            <h1>Data-Data (Polyline, Point, Polygon) </h1>
-            <table id="pointTable" border="1">
-                <thead>
-                    <tr>
-                        <th>No</th>
-                        <th>Name</th>
-                        <th>Coordinates</th>
-                        <th>Type</th>
-                    </tr>
-                </thead>
-                <tbody id="geojson-table"></tbody>
-            </table>
-        </div>
-        
-
-        <!-- Add a table to display GeoJSON data -->
-        <!-- <table border="1">
-            <tr>
-                <th>No</th>
-                <th>Name</th>
-                <th>Desa</th>
-                <th>Coordinates</th>
-                <th>Type</th>
-            </tr>
-            <tbody id="geojson-table"> -->
-
-                <!-- Rows for GeoJSON data will be added here -->
-            <!-- </tbody>
-        </table> -->
-        <!-- Include OpenLayers via CDN -->
-        <script src="https://cdn.jsdelivr.net/npm/openlayers@4.6.5/dist/ol.js"></script>
-
-        <!-- Your JavaScript code here -->
-        <script type="module" src="script.js"></script>
-        <script src="api.js"></script>
-
-    </div>
 </body>
 </html>
